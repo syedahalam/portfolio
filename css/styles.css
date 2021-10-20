@@ -60,3 +60,40 @@ nav.stickyadd .navbar-nav .nav-link {
 nav.stickyadd .hamburger{
     color: black;
 }
+/* header section */
+header{
+	height: 100vh;
+	width: 100%;
+}
+.header-content{
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.content-box{
+	max-width: 700px;
+	color: white;
+}
+.content-box h4{
+	font-size: 30px;
+}
+.content-box h1{
+	font-size: 52px;
+}
+.content-box a{
+	color: white;
+	text-decoration: none;
+	border: 2px solid #fff;
+	border-radius: 20px;
+	padding: 5px 25px;
+}
+.content-box a:hover{
+	color: black;
+	background:white;
+	transition: 0.5s all;
+}
+.content-box p{
+	color: #fff;
+}
