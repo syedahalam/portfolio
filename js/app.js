@@ -8,7 +8,7 @@ $(document).ready(function () {
 		}
 	});
 	var typed = new Typed('.element', {
-		strings: ['Syeda Alam', 'a software-engineer', 'a FullStackDeveloper '],
+		strings: ['Syeda Alam', 'a software-engineer', 'a fullStackDeveloper '],
 		smartBackspace: true,
 		typeSpeed: 100,
 		backSpeed: 100,

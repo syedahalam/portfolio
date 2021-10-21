@@ -134,3 +134,16 @@ header{
 	font-size: 20px;
 	margin-left: 10px;
 }
+/* contact us */
+.contact .s-icon{
+	font-size: 50px;
+	text-align: center;
+
+}
+.a-contact{
+	font-size: 1.5rem;
+	/* padding-top: 0; */
+}
+.p-contact{
+	padding-top: 35px;
+}
